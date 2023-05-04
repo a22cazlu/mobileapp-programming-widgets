@@ -14,5 +14,6 @@ android:layout_margin="10dp"
 Koden är commitad efter var och en av widgetarna blivit skapade.
 
 ![](widgets.png)
+
 **Figur 1:** Appen
 
